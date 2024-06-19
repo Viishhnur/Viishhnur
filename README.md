@@ -84,7 +84,7 @@ technologies to meet future requirements.
 -->
 </p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Viishhnur" alt="Viishhnu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rakesh919&show_icons=true&theme=radical" alt="Rakesh's github stats" /></a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Viishhnur" alt="Viishhnu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Viishhnur&show_icons=true&theme=radical" alt="Rakesh's github stats" /></a>
 <!--
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh919&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> | 
 -->
