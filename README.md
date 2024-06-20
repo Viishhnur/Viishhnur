@@ -7,10 +7,9 @@
 ### Hi there, I'm [Viishhnu Rangaraju](https://www.linkedin.com/in/viishhnu-rangaraju/)👋🏻 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
 Enthusiastic and hardworking job seeker, fueled by a passion for technology
-and coding excellence. With well-honed organizational skills, I'm determined
-to secure an entry-level position as a Java Developer. Ready to collaborate
+and coding excellence.Ready to collaborate
 with a team, contribute to company goals, and create impactful software
-solutions. Actively pursuing opportunities in the realm of Java development
+solutions. 
 
 
 - 💻 {( I am currently enrolled in a B.Tech program at  [Keshav Memorial Institute of Technology](https://www.kmit.in/)- Hyderabad , specializing in the field of Computer Science.. )}
