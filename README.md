@@ -8,7 +8,9 @@ Enthusiastic and hardworking job seeker, fueled by a passion for technology and 
 - 🧑‍ I have always had the ability to look at things from a different perspective and try to find something new in them. I hope that with every new day, I get more than one chance to learn everything, which will make me very happy. New technologies have always been an inspiration to learn and at the same time get an opportunity to learn something from them.
 - 👨🏽‍💻 Currently growing my skillset in [Flutter](https://docs.flutter.dev/).
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Viishhnur&label=Profile%20views&color=32CD32&style=flat" alt="Viishhnur" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Viishhnur&label=Profile%20views&color=32CD32&style=flat" alt="Viishhnur" />
+</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 ### `Coding Profiles:`
@@ -61,12 +63,21 @@ Enthusiastic and hardworking job seeker, fueled by a passion for technology and 
 
 ### `Connect with me` <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">:
 
-<p align = "center">
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/viishhnu-rangaraju/)
-  [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/ViishhnuR39701) 
-  [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://github.com/Viishhnur)
+<p align="center">
+  <a href="https://www.linkedin.com/in/viishhnu-rangaraju/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/ViishhnuR39701">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://github.com/Viishhnur">
+    <img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" />
+  </a>
 </p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Viishhnur" alt="Viishhnu's github stats" />
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Viishhnur&show_icons=true&theme=radical" alt="Viishhnu's github stats" /></a>
-
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Viishhnur" alt="Viishhnu's github stats" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Viishhnur&show_icons=true&theme=radical" alt="Viishhnu's github stats" />
+  </a>
+</p>
