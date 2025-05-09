@@ -19,7 +19,6 @@ Enthusiastic and hardworking job seeker, fueled by a passion for technology and 
 
 - 🌱 I’m currently in love with <b>Flutter</b>
 - 💬 Ask me about **DSA**, **Internships**
-- 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 Reach me at: **viishhnur@gmail.com**
 - ⚡ Fun fact: I love problem solving and feeding animals.
 - ❤️ Building a community to make an impact by training new generations on cutting edge technologies to meet future requirements.
@@ -30,7 +29,6 @@ Enthusiastic and hardworking job seeker, fueled by a passion for technology and 
 - Any internship opportunity
 
 <details>
-  <summary>📃 Resume</summary>
 
 ## Education
 - 📍 **Keshav Memorial Institute of Technology** ----------------------- **<2022-2026>**\
@@ -70,7 +68,7 @@ Enthusiastic and hardworking job seeker, fueled by a passion for technology and 
   <a href="https://x.com/ViishhnuR39701">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://github.com/Viishhnur">
+  <a href="https://viishhnu-dev.vercel.app/">
     <img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" />
   </a>
 </p>
