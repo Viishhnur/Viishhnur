@@ -33,7 +33,7 @@
 - ☁️ Cloud, Docker, CI/CD, and DevOps.
 - 🧠 LeetCode: **650+ problems**, **40+ contests**, **Max rating: 1650**.
 - 🏆 **EAMCET Rank: 1432** (Convener Quota)
-- 🐾 Animal lover who also loves training ML models :)
+- 🐾 Animal lover who also loves learning about GEN-AI :)
 
 ---
 
@@ -91,10 +91,10 @@
 
 | Project | Tech Stack | Links |
 |--------|------------|-------|
+| **Aqua Sentinel – Marine Monitoring System** | React.js, Firebase, Flask , Object Detection(YOLOv8,Faster RCNN) | 🔗 https://aquasentinel.vercel.app |
 | **Bhramastra – Attendance Tracker** | React.js, Node.js, MongoDB, Vercel | 🔗 https://kmit-bhramastra-beta.vercel.app |
 | **GenAI Remote Sensing System** | Flutter, Docker, AWS, DL Models | 🌐 https://chromoto-sar.vercel.app &nbsp;·&nbsp; ▶ https://youtu.be/1aOEtc9Euhc |
 | **Visual Aid for the Visually Impaired** | Flutter, Flask, Firebase, Gemini (VLM) | ▶ https://www.youtube.com/watch?v=lGWhG0DqqO4 |
-| **Jobby App – Hackathon Winning** | React.js, MongoDB, Express.js | 🔗 https://abcprogrammers.netlify.app |
 
 ---
 
