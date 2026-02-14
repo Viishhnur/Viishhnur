@@ -16,7 +16,7 @@
 <!-- Current role banner -->
 <p align="center">
   <a href="https://www.dbs.com/">
-    <img src="https://img.shields.io/badge/AI%20DevOps%20Apprentice-DBS%20Tech-red?style=for-the-badge&logo=databricks&logoColor=white" alt="DBS Apprentice"/>
+    <img src="https://img.shields.io/badge/%20SDE%20Intern-DBS%20Tech-red?style=for-the-badge&logo=databricks&logoColor=white" alt="DBS-Tech Intern"/>
   </a>
 </p>
 
