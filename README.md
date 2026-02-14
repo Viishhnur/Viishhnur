@@ -6,7 +6,7 @@
 <h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/viishhnu-rangaraju/">Viishhnu Rangaraju</a> 👋🏻</h1>
 
 <p align="center">
-  <b>Aspiring Software Engineer | Full‑Stack Developer | Cloud & AI Enthusiast | Java & Spring Boot Fan ❤️</b>
+  <b>SDE Intern @DBS-Tech | Full‑Stack Developer | Cloud & AI Enthusiast | Java & Spring Boot Fan ❤️</b>
 </p>
 
 <p align="center">
@@ -29,7 +29,6 @@
 - 🎓 B.Tech in **Computer Science** @ [KMIT, Hyderabad](https://www.kmit.in/) *(2022–2026)*  
   📊 **CGPA: 9.31** &nbsp;|&nbsp; 🏅 **4th Rank in CSE Department (6th Semester)**
 - ☕ **I love Java & Spring Boot** — building robust, scalable backends is my happy place.
-- 🧩 SDE Intern @ **DBS Tech (Asia’s Safest Bank)** .
 - ☁️ Cloud, Docker, CI/CD, and DevOps.
 - 🧠 LeetCode: **780+ problems**, **45+ contests**, **Max rating: 1654**.
 - 🏆 **EAMCET Rank: 1432** (Convener Quota)
