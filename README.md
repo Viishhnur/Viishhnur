@@ -29,9 +29,9 @@
 - 🎓 B.Tech in **Computer Science** @ [KMIT, Hyderabad](https://www.kmit.in/) *(2022–2026)*  
   📊 **CGPA: 9.31** &nbsp;|&nbsp; 🏅 **4th Rank in CSE Department (6th Semester)**
 - ☕ **I love Java & Spring Boot** — building robust, scalable backends is my happy place.
-- 🧩 AI DevOps Apprentice @ **DBS Tech (Asia’s Safest Bank)** .
+- 🧩 SDE Intern @ **DBS Tech (Asia’s Safest Bank)** .
 - ☁️ Cloud, Docker, CI/CD, and DevOps.
-- 🧠 LeetCode: **650+ problems**, **40+ contests**, **Max rating: 1650**.
+- 🧠 LeetCode: **780+ problems**, **45+ contests**, **Max rating: 1654**.
 - 🏆 **EAMCET Rank: 1432** (Convener Quota)
 - 🐾 Animal lover who also loves learning about GEN-AI :)
 
