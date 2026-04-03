@@ -6,7 +6,7 @@
 <h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/viishhnu-rangaraju/">Viishhnu Rangaraju</a> 👋🏻</h1>
 
 <p align="center">
-  <b>SDE Intern @DBS-Tech | Full‑Stack Developer | Cloud & AI Enthusiast | Flutter developer | Java & Spring Boot Fan ❤️</b>
+  <b>SDE Intern @DBS-Tech | Full‑Stack Developer | Cloud & Gen-AI Enthusiast | Flutter developer | Java & Spring Boot Fan ❤️</b>
 </p>
 
 <p align="center">
