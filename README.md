@@ -27,7 +27,7 @@
 ### 🚀 About Me
 
 - 🎓 B.Tech in **Computer Science** @ [KMIT, Hyderabad](https://www.kmit.in/) *(2022–2026)*  
-  📊 **CGPA: 9.26** &nbsp;|&nbsp; 🏅 **4th Rank in CSE Department (6th Semester)**
+  📊 **CGPA: 9.31** &nbsp;|&nbsp; 🏅 **4th Rank in CSE Department (6th Semester)**
 - ☕ **I love Java & Spring Boot** — building robust, scalable backends is my happy place.
 - ☁️ Flutter, Cloud, Docker, CI/CD, and DevOps.
 - 🧠 LeetCode: **800+ problems**, **50+ contests**, **Max rating: 1654**.
