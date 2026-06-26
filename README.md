@@ -6,6 +6,10 @@
 <h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/viishhnu-rangaraju/">Viishhnu Rangaraju</a> 👋🏻</h1>
 
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&center=true&vCenter=true&width=900&lines=Incoming+Software+Engineer+%40+DBS+Tech+India;Java+%7C+Spring+Boot+%7C+AWS;Full+Stack+Developer;Flutter+Developer;GenAI+%7C+Computer+Vision;800%2B+LeetCode+Problems"/>
+</p>
+
+<p align="center">
   <b>SDE Intern @DBS-Tech | Full‑Stack Developer | Cloud & Gen-AI Enthusiast | Flutter developer | Java & Spring Boot Fan ❤️</b>
 </p>
 
